@@ -1,0 +1,398 @@
+{
+  "locale": "tr",
+  "dir": "ltr",
+  "languageName": "Türkçe",
+  "site": {
+    "name": "ARZ Health",
+    "tagline": "İstanbul’da uluslararası hasta desteği",
+    "location": "Şişli, İstanbul, Türkiye",
+    "email": "info@arzhealth.com",
+    "whatsapp": "WhatsApp"
+  },
+  "languages": {
+    "en": "İngilizce",
+    "tr": "Türkçe",
+    "ar": "Arapça"
+  },
+  "common": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "dental": "Diş Tedavileri",
+    "aesthetic": "Estetik Tedaviler",
+    "hair": "Saç Ekimi",
+    "contact": "İletişim",
+    "beforeAfter": "Öncesi & Sonrası",
+    "faq": "Sıkça Sorulan Sorular",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "disclaimer": "Tıbbi Uyarı",
+    "getConsultation": "Ücretsiz Danışmanlık Al",
+    "requestConsultation": "Ücretsiz Danışmanlık Talep Et",
+    "whatsapp": "WhatsApp ile İletişime Geç",
+    "learnMore": "Detayları İncele",
+    "getStarted": "Danışmanlık Al",
+    "readMore": "Devamını Oku",
+    "submit": "Gönder",
+    "close": "Kapat",
+    "menu": "Menü",
+    "selectLanguage": "Dil seç",
+    "viewServices": "Hizmetleri İncele",
+    "resultsMayVary": "Sonuçlar hastanın kişisel durumuna göre değişiklik gösterebilir.",
+    "demoContent": "Demo placeholder içerik"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "dental": "Diş Tedavileri",
+    "aesthetic": "Estetik Tedaviler",
+    "hair": "Saç Ekimi",
+    "beforeAfter": "Öncesi & Sonrası",
+    "faq": "Sıkça Sorulan Sorular",
+    "contact": "İletişim",
+    "cta": "Ücretsiz Danışmanlık Al"
+  },
+  "metadata": {
+    "home": {
+      "title": "ARZ Health | İstanbul’da Sağlık Turizmi",
+      "description": "ARZ Health, Şişli İstanbul’da diş tedavileri, estetik uygulamalar ve saç ekimi için uluslararası hasta desteği sağlar.",
+      "keywords": ["ARZ Health", "İstanbul sağlık turizmi", "Türkiye diş tedavisi", "İstanbul estetik tedavi", "Türkiye saç ekimi", "Şişli hasta desteği"]
+    },
+    "about": {
+      "title": "ARZ Health Hakkında | Uluslararası Hasta Desteği",
+      "description": "ARZ Health’in Şişli İstanbul’da çok dilli sağlık turizmi desteği, tedavi planlama ve seyahat koordinasyonu süreçlerini keşfedin.",
+      "keywords": ["ARZ Health hakkında", "uluslararası hasta desteği", "Türkiye sağlık turizmi"]
+    },
+    "services": {
+      "title": "Tıbbi Hizmetler | ARZ Health İstanbul",
+      "description": "İstanbul’da uluslararası hastalar için diş tedavileri, estetik uygulamalar ve saç ekimi desteğini inceleyin.",
+      "keywords": ["İstanbul tıbbi hizmetler", "Türkiye diş estetik saç ekimi"]
+    },
+    "dental": {
+      "title": "İstanbul’da Diş Tedavileri | ARZ Health",
+      "description": "İstanbul’da implant, gülüş tasarımı, kaplama, kuron ve beyazlatma için kişiselleştirilmiş tedavi planlama desteği.",
+      "keywords": ["İstanbul implant", "Türkiye Hollywood smile", "İstanbul veneer"]
+    },
+    "aesthetic": {
+      "title": "İstanbul’da Estetik Tedaviler | ARZ Health",
+      "description": "İstanbul’da estetik danışmanlık, yüz estetiği, vücut estetiği ve ameliyatsız işlemler için koordinasyon desteği.",
+      "keywords": ["İstanbul estetik tedavi", "Türkiye rinoplasti", "İstanbul medikal estetik"]
+    },
+    "hair": {
+      "title": "İstanbul’da Saç Ekimi | ARZ Health",
+      "description": "İstanbul’da FUE, DHI, sakal ekimi ve saç çizgisi planlama desteği.",
+      "keywords": ["İstanbul saç ekimi", "Türkiye FUE", "DHI saç ekimi"]
+    },
+    "contact": {
+      "title": "ARZ Health İletişim | Ücretsiz Danışmanlık",
+      "description": "İstanbul’da ücretsiz online danışmanlık ve çok dilli hasta desteği için ARZ Health ile iletişime geçin.",
+      "keywords": ["ARZ Health iletişim", "İstanbul ücretsiz danışmanlık", "WhatsApp sağlık turizmi"]
+    },
+    "privacy": {
+      "title": "Gizlilik Politikası | ARZ Health",
+      "description": "ARZ Health’in danışmanlık talebi bilgilerini ve uluslararası hasta gizliliğini nasıl ele aldığını okuyun.",
+      "keywords": ["ARZ Health gizlilik", "sağlık turizmi gizlilik"]
+    },
+    "terms": {
+      "title": "Kullanım Şartları | ARZ Health",
+      "description": "ARZ Health web sitesi kullanım şartlarını okuyun.",
+      "keywords": ["ARZ Health kullanım şartları"]
+    },
+    "disclaimer": {
+      "title": "Tıbbi Uyarı | ARZ Health",
+      "description": "ARZ Health web sitesi ziyaretçileri ve uluslararası hastalar için önemli tıbbi uyarı.",
+      "keywords": ["tıbbi uyarı", "sağlık turizmi uyarı"]
+    }
+  },
+  "hero": {
+    "eyebrow": "Şişli, İstanbul merkezli sağlık turizmi desteği",
+    "title": "İstanbul’da Güvenilir Sağlık Turizmi Partneriniz",
+    "description": "ARZ Health, diş tedavileri, estetik uygulamalar ve saç ekimi için İstanbul’a gelen uluslararası hastalara ilk danışmanlıktan iyileşme sürecine kadar profesyonel rehberlik sunar.",
+    "primaryCta": "Ücretsiz Danışmanlık Al",
+    "secondaryCta": "WhatsApp ile İletişime Geç",
+    "imageAlt": "Uluslararası hastalar için modern İstanbul klinik danışmanlık ortamı",
+    "stats": [
+      { "value": "3", "label": "Ana tedavi kategorisi" },
+      { "value": "24/7", "label": "WhatsApp rehberlik süreci" },
+      { "value": "3", "label": "Web sitesi dili" }
+    ],
+    "badges": [
+      "Çok Dilli Destek",
+      "İstanbul / Şişli Konumu",
+      "Kişiselleştirilmiş Tedavi Planlama",
+      "Havalimanı & Otel Desteği"
+    ]
+  },
+  "services": {
+    "eyebrow": "Tıbbi hizmetler",
+    "title": "Tıbbi Hizmetlerimiz",
+    "description": "İstanbul’da uluslararası hastalar için ilk mesajdan takip desteğine kadar net tedavi koordinasyonu.",
+    "cards": [
+      {
+        "key": "dental",
+        "title": "Diş Tedavileri",
+        "description": "Uluslararası hastalar için dental implantlar, gülüş tasarımı, veneer, kuron, beyazlatma ve tam ağız rehabilitasyonu.",
+        "image": "/images/dental-treatment.png",
+        "imageAlt": "Diş tedavisi planlama placeholder",
+        "features": ["İmplant", "Gülüş tasarımı", "Veneer ve kuron"]
+      },
+      {
+        "key": "aesthetic",
+        "title": "Estetik Tedaviler",
+        "description": "İstanbul’daki profesyonel medikal partnerlerle planlanan kişiselleştirilmiş estetik ve kozmetik işlemler.",
+        "image": "/images/aesthetic-consultation.png",
+        "imageAlt": "Estetik danışmanlık placeholder",
+        "features": ["Yüz estetiği", "Vücut estetiği", "Ameliyatsız seçenekler"]
+      },
+      {
+        "key": "hair",
+        "title": "Saç Ekimi",
+        "description": "Danışmanlık, planlama ve takip desteğiyle doğal görünüme odaklanan saç ekimi çözümleri.",
+        "image": "/images/hair-transplant-care.png",
+        "imageAlt": "Saç ekimi planlama placeholder",
+        "features": ["FUE", "DHI", "Saç çizgisi planlama"]
+      }
+    ]
+  },
+  "why": {
+    "eyebrow": "Neden ARZ Health",
+    "title": "Neden ARZ Health?",
+    "description": "İletişim, planlama ve takip süreci net olduğunda uluslararası sağlık seyahati daha kolay hale gelir.",
+    "items": [
+      { "title": "Uluslararası hasta desteği", "description": "Avrupa, Orta Doğu, Amerika, Afrika ve farklı ülkelerden gelen hastalara yönelik rehberlik." },
+      { "title": "Çok dilli iletişim", "description": "İngilizce, Türkçe ve Arapça içerik ve danışmanlık destek yolları." },
+      { "title": "Şişli, İstanbul konumu", "description": "Otel, ulaşım ve medikal tesislere kolay erişim sağlayan merkezi konum." },
+      { "title": "Kişiselleştirilmiş tedavi planlama", "description": "Tedavi süreci, medikal değerlendirme ve hasta beklentileri dikkatle incelendikten sonra ele alınır." },
+      { "title": "Şeffaf iletişim", "description": "Süreç, zamanlama, randevu koordinasyonu ve sonraki adımlar hakkında açık bilgi." },
+      { "title": "Seyahat ve klinik desteği", "description": "Havalimanı transferi, otel yönlendirmesi ve klinik randevu organizasyonu için destek." },
+      { "title": "WhatsApp takip desteği", "description": "Tedavi öncesi ve sonrası, tıbbi rehberlik sınırlarına saygılı kolay iletişim." },
+      { "title": "Profesyonel sağlık ağı", "description": "Uygun danışmanlık ve bakım için nitelikli sağlık partnerleriyle koordinasyon." }
+    ]
+  },
+  "journey": {
+    "eyebrow": "Tedavi süreci",
+    "title": "Türkiye’de Tedavi Yolculuğunuz",
+    "description": "Seyahat etmeden önce netlik isteyen uluslararası hastalar için sakin ve adım adım bir deneyim.",
+    "steps": [
+      { "title": "Ücretsiz Online Danışmanlık", "description": "Talebinizi, medikal durumunuzu ve beklentilerinizi form veya WhatsApp üzerinden paylaşın." },
+      { "title": "Medikal Değerlendirme", "description": "Bilgileriniz ilgili sağlık profesyonelleriyle değerlendirilir." },
+      { "title": "Kişisel Tedavi Planı", "description": "Plan taslağı, tahmini randevu akışı ve hazırlık notları net şekilde paylaşılır." },
+      { "title": "Seyahat & Konaklama Desteği", "description": "Havalimanı transferi, otel seçenekleri ve İstanbul lojistiği için yönlendirme alın." },
+      { "title": "İstanbul’da Tedavi", "description": "Çok dilli hasta desteğiyle koordine edilen randevulara katılın." },
+      { "title": "İyileşme & Takip Desteği", "description": "İşlem sonrası takip iletişimi ve yönlendirme desteği alın." }
+    ]
+  },
+  "popular": {
+    "eyebrow": "Popüler tedaviler",
+    "title": "Popüler Tedavi Talepleri",
+    "description": "Uluslararası hastalardan sık gelen tedavi ilgi alanları. Nihai uygunluk profesyonel medikal danışmanlık gerektirir.",
+    "groups": [
+      { "title": "Diş", "items": ["Dental İmplant", "Hollywood Smile", "Zirkonyum Kuron", "Veneer", "Diş Beyazlatma", "Gülüş Tasarımı"] },
+      { "title": "Estetik", "items": ["Rinoplasti", "Liposuction", "Yüz Germe", "Meme Estetiği", "Karın Germe", "Botoks & Dolgu"] },
+      { "title": "Saç", "items": ["FUE Saç Ekimi", "DHI Saç Ekimi", "Sakal Ekimi", "Kaş Ekimi", "PRP Saç Tedavisi"] }
+    ],
+    "note": "Medikal değerlendirme yapılmadan hiçbir tıbbi sonuç vaat edilemez."
+  },
+  "location": {
+    "eyebrow": "İstanbul konumu",
+    "title": "İstanbul’un Kalbinde: Şişli",
+    "description": "ARZ Health, İstanbul’un en merkezi ve erişilebilir ilçelerinden Şişli’de uluslararası hastalara hizmet verir. Konum; otellere, ulaşıma, alışveriş alanlarına ve medikal tesislere kolay erişim sağlar.",
+    "imageAlt": "Şişli İstanbul harita ve seyahat desteği placeholder",
+    "mapLabel": "Harita placeholder: Şişli / İstanbul",
+    "items": [
+      "Şişli / İstanbul hasta koordinasyonu",
+      "Havalimanı transfer desteği",
+      "Otel yönlendirme desteği",
+      "Klinik randevu organizasyonu"
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Görsel dokümantasyon",
+    "title": "Öncesi / Sonrası Galeri Alanı",
+    "description": "Klinik onaylı tedavi fotoğrafları için yapılandırılmış bir alan hazırlandı. Mevcut görseller placeholder’dır ve uyumlu, onaylı medya ile değiştirilmelidir.",
+    "imageAlt": "Öncesi ve sonrası galeri placeholder",
+    "items": ["Diş vakası placeholder", "Estetik vakası placeholder", "Saç ekimi placeholder"],
+    "disclaimer": "Sonuçlar hastanın kişisel durumuna göre değişiklik gösterebilir."
+  },
+  "testimonials": {
+    "eyebrow": "Hasta deneyimi",
+    "title": "Uluslararası Hasta Yorumları",
+    "description": "Demo yorumlar, hedeflenen içerik formatını gösterir. Yayın öncesinde doğrulanmış ve izinli hasta yorumlarıyla değiştirilmelidir.",
+    "items": [
+      { "name": "M.K.", "country": "Almanya", "service": "Diş Tedavisi", "quote": "İlk mesajdan itibaren iletişim çok profesyoneldi. Ekip tedavi sürecini net şekilde anlamama yardımcı oldu." },
+      { "name": "A.R.", "country": "Birleşik Krallık", "service": "Saç Ekimi", "quote": "Danışmanlık sakin ve detaylıydı. İstanbul’a gelmeden önce seyahat yönlendirmesini takdir ettim." },
+      { "name": "L.S.", "country": "Birleşik Arap Emirlikleri", "service": "Estetik Danışmanlık", "quote": "ARZ Health randevu adımlarını açıkladı ve medikal görüşme için sorularımı hazırlamama yardımcı oldu." }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "items": [
+      { "question": "Tedavi planını nasıl alabilirim?", "answer": "Ücretsiz danışmanlık formunu doldurabilir veya ARZ Health ile WhatsApp üzerinden iletişime geçebilirsiniz. Hasta danışmanı talebinizi alır ve sonraki medikal değerlendirme adımını koordine eder." },
+      { "question": "Uluslararası hastalara destek veriyor musunuz?", "answer": "Evet. ARZ Health, diş, estetik ve saç ekimi hizmetleri için İstanbul’a gelen uluslararası hastalara destek odaklı çalışır." },
+      { "question": "İstanbul’da nerede bulunuyorsunuz?", "answer": "ARZ Health, İstanbul’un merkezi ve erişilebilir ilçelerinden Şişli merkezlidir." },
+      { "question": "Otel ve transfer konusunda yardımcı olabilir misiniz?", "answer": "ARZ Health; havalimanı transferi, konaklama seçenekleri ve klinik randevuları için yönlendirme ve koordinasyon desteği sağlayabilir." },
+      { "question": "Hangi dilleri destekliyorsunuz?", "answer": "Web sitesi İngilizce, Türkçe ve Arapça destekler. Hasta iletişimi de uygunluk durumuna göre düzenlenebilir." },
+      { "question": "ARZ Health ile nasıl iletişime geçebilirim?", "answer": "Danışmanlık formunu, WhatsApp butonunu veya footer’daki iletişim bilgilerini kullanabilirsiniz." },
+      { "question": "Tedavi sonuçları garanti edilir mi?", "answer": "Hiçbir tıbbi sonuç garanti edilemez. Tedavi sonuçları hastanın medikal durumuna, beklentilerine ve tedavi planına göre değişebilir." }
+    ]
+  },
+  "form": {
+    "eyebrow": "Ücretsiz danışmanlık",
+    "title": "Ücretsiz Danışmanlık Talep Et",
+    "description": "Hangi tedaviyle ilgilendiğinizi paylaşın. Form; ileride e-posta, CRM, Google Sheets, API veya WhatsApp entegrasyonlarına hazırdır.",
+    "success": "Teşekkürler. Hasta danışmanımız kısa süre içinde sizinle iletişime geçecektir.",
+    "fields": {
+      "fullName": "Ad Soyad",
+      "country": "Ülke",
+      "phone": "Telefon Numarası",
+      "whatsapp": "WhatsApp Numarası",
+      "email": "E-posta",
+      "treatment": "İlgilenilen Tedavi",
+      "language": "Tercih Edilen Dil",
+      "message": "Mesaj",
+      "photo": "Fotoğraf yükle (opsiyonel placeholder)",
+      "consent": "Danışmanlık talebimle ilgili ARZ Health tarafından benimle iletişime geçilmesini kabul ediyorum."
+    },
+    "placeholders": {
+      "fullName": "Adınız ve soyadınız",
+      "country": "Yaşadığınız ülke",
+      "phone": "+90 555 000 0000",
+      "whatsapp": "+90 555 000 0000",
+      "email": "isim@example.com",
+      "message": "Tedavi hedeflerinizi, seyahat tarihlerinizi veya sorularınızı yazın."
+    },
+    "options": {
+      "treatments": ["Diş Tedavisi", "Estetik Tedavi", "Saç Ekimi", "Diğer"],
+      "languages": ["İngilizce", "Türkçe", "Arapça"]
+    },
+    "validation": {
+      "name": "Ad soyad zorunludur.",
+      "contact": "Telefon numarası veya WhatsApp numarası zorunludur.",
+      "treatment": "Lütfen ilgilendiğiniz tedaviyi seçin.",
+      "consent": "Lütfen iletişim iznini onaylayın."
+    }
+  },
+  "aboutPage": {
+    "eyebrow": "ARZ Health hakkında",
+    "title": "Şişli Merkezli Çok Dilli Sağlık Turizmi Desteği",
+    "description": "ARZ Health, Türkiye’de sağlık hizmeti yolculuğunu net iletişim, tedavi planlama desteği ve pratik İstanbul koordinasyonuyla organize etmeye yardımcı olur.",
+    "imageAlt": "ARZ Health hasta danışmanlığı placeholder",
+    "introTitle": "Ne Yapıyoruz?",
+    "intro": "ARZ Health; diş tedavileri, estetik işlemler ve saç ekimi taleplerine odaklanan bir sağlık turizmi koordinasyon markasıdır. Ekip, ilk iletişimden randevu koordinasyonuna, seyahat yönlendirmesinden takip iletişimine kadar hastalara destek olur.",
+    "items": [
+      "Türkiye’de uluslararası hastalar için sağlık hizmeti organizasyonu",
+      "Medikal danışmanlık sonrası tedavi planlama desteği",
+      "Klinik ve doktor randevu koordinasyonu",
+      "Konaklama ve ulaşım yönlendirmesi",
+      "Çok dilli hasta danışmanlığı",
+      "Şişli, İstanbul merkezli hizmet yapısı"
+    ]
+  },
+  "servicesPage": {
+    "eyebrow": "Hizmetler",
+    "title": "İstanbul’da Sağlık Turizmi Hizmetleri",
+    "description": "ARZ Health’in ana tedavi kategorilerini inceleyin ve kişiselleştirilmiş rehberlik için ücretsiz danışmanlık talep edin."
+  },
+  "servicePages": {
+    "dental": {
+      "eyebrow": "Diş tedavileri",
+      "title": "İstanbul’da Diş Tedavileri",
+      "description": "İmplant, gülüş tasarımı, veneer, kuron, beyazlatma ve tam ağız rehabilitasyonu için diş tedavisi planlama desteği.",
+      "imageAlt": "Diş tedavileri hizmet placeholder",
+      "overviewTitle": "Diş Tedavisi Koordinasyonu",
+      "overview": "ARZ Health, uluslararası hastaların diş tedavi seçeneklerini anlamasına, danışmanlık materyallerini hazırlamasına ve İstanbul’daki profesyonel medikal partnerlerle randevu koordinasyonuna destek olur.",
+      "treatments": ["Gülüş tasarımı", "İmplant tedavileri", "Veneer", "Kuron", "Diş beyazlatma", "Tedavi planlama"],
+      "processTitle": "Diş Tedavisi Süreci",
+      "faqs": [
+        { "question": "Seyahatten önce diş fotoğrafı paylaşabilir miyim?", "answer": "Evet. Ön danışmanlık için fotoğraf paylaşabilirsiniz. Nihai plan profesyonel diş hekimi değerlendirmesi gerektirir." },
+        { "question": "Diş tedavileri ne kadar sürer?", "answer": "Süre; tedavi türüne, ağız sağlığına ve medikal planlamaya göre değişir. Değerlendirme sonrası danışmanınız beklenen randevu akışını açıklayabilir." },
+        { "question": "Diş tedavisini seyahat desteğiyle birleştirebilir miyim?", "answer": "ARZ Health randevu zamanlaması, otel yönlendirmesi ve transfer desteği koordinasyonuna yardımcı olabilir." }
+      ]
+    },
+    "aesthetic": {
+      "eyebrow": "Estetik tedaviler",
+      "title": "İstanbul’da Estetik Tedaviler",
+      "description": "Yüz estetiği, vücut estetiği ve ameliyatsız işlemler için estetik danışmanlık ve koordinasyon.",
+      "imageAlt": "Estetik tedaviler hizmet placeholder",
+      "overviewTitle": "Güvenlik Odaklı Estetik Rehberlik",
+      "overview": "Her estetik talep, nitelikli sağlık profesyonelleri tarafından kişiye özel değerlendirilmelidir. ARZ Health iletişim, randevu koordinasyonu ve gerçekçi beklenti yönetimini destekler.",
+      "treatments": ["Estetik danışmanlık", "Yüz estetiği", "Vücut estetiği", "Ameliyatsız işlemler", "Hazırlık rehberliği", "Takip iletişimi"],
+      "processTitle": "Estetik Tedavi Süreci",
+      "faqs": [
+        { "question": "Estetik işlemler uzaktan planlanabilir mi?", "answer": "İlk danışmanlık online başlayabilir; uygunluk ve nihai tıbbi kararlar nitelikli medikal değerlendirme gerektirir." },
+        { "question": "Güvenlik bilgisi sağlıyor musunuz?", "answer": "ARZ Health hastaların doğru soruları sormasına ve hazırlık, iyileşme ve randevu adımlarını anlamasına yardımcı olur." },
+        { "question": "Sonuçlar garanti edilir mi?", "answer": "Hayır. Sonuçlar hastaya, medikal duruma, işlem türüne ve tedavi planına göre değişir." }
+      ]
+    },
+    "hair": {
+      "eyebrow": "Saç ekimi",
+      "title": "İstanbul’da Saç Ekimi",
+      "description": "FUE, DHI, sakal ekimi ve saç çizgisi planlama için danışmanlık ve iyileşme iletişimi desteği.",
+      "imageAlt": "Saç ekimi hizmet placeholder",
+      "overviewTitle": "Kişiselleştirilmiş Saç Çizgisi Planlama Desteği",
+      "overview": "ARZ Health, İstanbul’da saç ekimi düşünen hastalar için planlama, seyahat yönlendirmesi ve takip iletişimi dahil danışmanlık adımlarını koordine eder.",
+      "treatments": ["FUE", "DHI", "Sakal ekimi", "Saç çizgisi planlama", "İyileşme süreci", "PRP saç tedavisi"],
+      "processTitle": "Saç Ekimi Süreci",
+      "faqs": [
+        { "question": "Hangi teknik benim için uygun?", "answer": "FUE veya DHI uygunluğu donör alanınıza, saç hedeflerinize ve medikal değerlendirmeye bağlıdır." },
+        { "question": "İşlem sonrası yardımcı olabilir misiniz?", "answer": "ARZ Health takip iletişimini destekler ve hastaların önerilen iyileşme adımlarını anlamasına yardımcı olur." },
+        { "question": "Sonuçlar doğal görünür mü?", "answer": "Planlama doğal görünüme odaklanır; ancak bireysel sonuçlar değişir ve medikal değerlendirme gerektirir." }
+      ]
+    }
+  },
+  "contactPage": {
+    "eyebrow": "İletişim",
+    "title": "ARZ Health ile Danışmanlığınızı Başlatın",
+    "description": "Çok dilli hasta destek ekibine form veya WhatsApp üzerinden ulaşın. Tedavi ilginizi ve tercih ettiğiniz dili paylaşın.",
+    "detailsTitle": "İletişim Bilgileri",
+    "details": [
+      "Konum: Şişli, İstanbul, Türkiye",
+      "WhatsApp: Placeholder telefon numarası",
+      "E-posta: info@arzhealth.com",
+      "Diller: İngilizce, Türkçe, Arapça"
+    ]
+  },
+  "legal": {
+    "privacy": {
+      "eyebrow": "Gizlilik",
+      "title": "Gizlilik Politikası",
+      "paragraphs": [
+        "Bu web sitesi ad, ülke, iletişim bilgileri, tedavi ilgisi, tercih edilen dil ve mesaj içeriği gibi danışmanlık talebi bilgilerini toplayabilir.",
+        "Bilgiler; danışmanlık taleplerine yanıt vermek, iletişimi koordine etmek ve gelecekte e-posta, CRM, Google Sheets veya güvenli API süreçleri gibi entegrasyonları hazırlamak için kullanılır.",
+        "Medikal görseller veya kişisel detaylar yalnızca kendinizi rahat hissettiğinizde paylaşılmalıdır. Yayın kullanımı için detaylı gizlilik politikası ve uygulanabilir veri koruma incelemesi yapılmalıdır."
+      ]
+    },
+    "terms": {
+      "eyebrow": "Şartlar",
+      "title": "Kullanım Şartları",
+      "paragraphs": [
+        "Bu web sitesi ARZ Health sağlık turizmi koordinasyon hizmetleri hakkında genel bilgi sağlar.",
+        "Web sitesini kullanmak veya danışmanlık formu göndermek bir sağlık hizmeti sağlayıcı-hasta ilişkisi oluşturmaz.",
+        "Randevular, tedavi uygunluğu ve nihai kararlar nitelikli sağlık profesyonelleriyle değerlendirilmelidir."
+      ]
+    },
+    "disclaimer": {
+      "eyebrow": "Tıbbi uyarı",
+      "title": "Tıbbi Uyarı",
+      "paragraphs": [
+        "Bu web sitesindeki bilgiler yalnızca genel bilgilendirme amaçlıdır.",
+        "Tıbbi danışmanlığın yerine geçmez.",
+        "Tedavi uygunluğu ve sonuçları her hasta için değişiklik gösterebilir.",
+        "Nihai tıbbi kararlar nitelikli sağlık profesyonelleriyle yapılan danışmanlık sonrası verilmelidir."
+      ]
+    }
+  },
+  "footer": {
+    "description": "ARZ Health; Şişli, İstanbul’da diş tedavileri, estetik uygulamalar ve saç ekimi isteyen uluslararası hastalara destek sağlar.",
+    "servicesTitle": "Hizmetler",
+    "quickLinksTitle": "Hızlı Linkler",
+    "contactTitle": "İletişim",
+    "legalTitle": "Yasal",
+    "socialTitle": "Sosyal Medya",
+    "social": ["Instagram", "Facebook", "LinkedIn"],
+    "copyright": "Tüm hakları saklıdır.",
+    "disclaimer": "Bu web sitesindeki bilgiler genel bilgilendirme amaçlıdır ve tıbbi danışmanlığın yerine geçmez."
+  }
+}
