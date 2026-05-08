@@ -13,9 +13,9 @@ export function ConsultationCTA({
   locale?: Locale;
 }) {
   return (
-    <section className="bg-slate-50 py-20">
+    <section className="bg-[#f7fbff] py-20">
       <Container className="grid gap-8 lg:grid-cols-[0.82fr_1.18fr]">
-        <div className="rounded-lg bg-slate-950 p-8 text-white">
+        <div className="rounded-lg bg-slate-950 p-8 text-white shadow-2xl shadow-blue-950/15">
           <p className="text-sm font-semibold uppercase tracking-[0.18em] text-sky-200">
             {dict.form.eyebrow}
           </p>
@@ -28,7 +28,7 @@ export function ConsultationCTA({
           {locale ? (
             <PrimaryLink
               href={`${pathForPage(locale, "contact")}#consultation`}
-              className="mt-6 bg-white text-slate-950 hover:bg-sky-50"
+            className="mt-6 bg-white text-slate-950 hover:bg-cyan-50"
             >
               {dict.common.getConsultation}
               <ArrowRight aria-hidden="true" className="h-4 w-4 rtl:rotate-180" />

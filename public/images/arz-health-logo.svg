@@ -1,0 +1,27 @@
+<svg width="720" height="260" viewBox="0 0 720 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ARZ Health logo</title>
+  <desc id="desc">ARZ Health brand mark with medical travel arc and tooth symbol</desc>
+  <defs>
+    <linearGradient id="arc" x1="88" y1="32" x2="653" y2="235" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B3CFF"/>
+      <stop offset="0.48" stop-color="#1AC7E8"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="tooth" x1="527" y1="119" x2="656" y2="229" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10D9F3"/>
+      <stop offset="0.55" stop-color="#2186F4"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+  </defs>
+  <path d="M104 72C207 14 367 14 505 66" stroke="url(#arc)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M492 33L625 80L513 118L541 84L492 33Z" fill="#1FBDEB"/>
+  <path d="M94 165C98 210 131 239 184 244" stroke="url(#arc)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M539 219C588 207 621 174 633 129" stroke="url(#arc)" stroke-width="14" stroke-linecap="round"/>
+  <text x="82" y="158" fill="#2936C7" font-family="Inter, Arial, sans-serif" font-size="98" font-weight="900" letter-spacing="4">ARZ</text>
+  <text x="116" y="218" fill="#7C2BD8" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="16">HEALTH</text>
+  <path d="M602 111C579 111 563 127 563 151C563 180 585 218 601 218C612 218 612 190 626 190C640 190 640 218 651 218C666 218 688 180 688 151C688 127 672 111 649 111C635 111 627 119 626 119C624 119 616 111 602 111Z" fill="url(#tooth)"/>
+  <path d="M579 145C599 158 630 158 663 139" stroke="#8EEBFF" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="662" cy="110" r="8" fill="#19C8EA"/>
+  <path d="M686 92L692 107L707 113L692 119L686 134L680 119L665 113L680 107L686 92Z" fill="#38D5F2"/>
+  <circle cx="89" cy="177" r="10" fill="#7633DD"/>
+</svg>

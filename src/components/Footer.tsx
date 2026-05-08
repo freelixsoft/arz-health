@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { AtSign, Globe2, Mail, MapPin, MessageCircle, Share2 } from "lucide-react";
+import { BrandLogo } from "@/components/BrandLogo";
 import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 import { getWhatsAppUrl } from "@/lib/site";
 import type { Locale } from "@/lib/routes";
@@ -29,13 +30,7 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
       <div className="mx-auto grid w-full max-w-7xl gap-10 px-4 sm:px-6 lg:grid-cols-[1.2fr_0.8fr_0.8fr_1fr] lg:px-8">
         <div>
           <Link href={pathForPage(locale, "home")} className="flex items-center gap-3">
-            <span className="flex h-12 w-12 items-center justify-center rounded-md bg-white text-sm font-bold text-slate-950">
-              ARZ
-            </span>
-            <span>
-              <span className="block text-xl font-bold">{dict.site.name}</span>
-              <span className="block text-sm text-slate-400">{dict.site.tagline}</span>
-            </span>
+            <BrandLogo dict={dict} inverted />
           </Link>
           <p className="mt-5 max-w-sm text-sm leading-7 text-slate-300">
             {dict.footer.description}
@@ -49,20 +44,20 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
         <FooterColumn title={dict.footer.quickLinksTitle} links={quickLinks} />
 
         <div>
-          <h3 className="text-sm font-bold uppercase tracking-[0.18em] text-sky-200">
+          <h3 className="text-sm font-bold uppercase tracking-[0.18em] text-cyan-200">
             {dict.footer.contactTitle}
           </h3>
           <div className="mt-5 space-y-4 text-sm text-slate-300">
             <p className="flex gap-3">
-              <MapPin aria-hidden="true" className="mt-0.5 h-5 w-5 shrink-0 text-teal-300" />
+              <MapPin aria-hidden="true" className="mt-0.5 h-5 w-5 shrink-0 text-cyan-300" />
               {dict.site.location}
             </p>
             <a href={getWhatsAppUrl()} target="_blank" rel="noreferrer" className="flex gap-3 hover:text-white">
-              <MessageCircle aria-hidden="true" className="mt-0.5 h-5 w-5 shrink-0 text-teal-300" />
+              <MessageCircle aria-hidden="true" className="mt-0.5 h-5 w-5 shrink-0 text-cyan-300" />
               {dict.site.whatsapp}
             </a>
             <a href={`mailto:${dict.site.email}`} className="flex gap-3 hover:text-white">
-              <Mail aria-hidden="true" className="mt-0.5 h-5 w-5 shrink-0 text-teal-300" />
+              <Mail aria-hidden="true" className="mt-0.5 h-5 w-5 shrink-0 text-cyan-300" />
               {dict.site.email}
             </a>
           </div>
@@ -111,7 +106,7 @@ function FooterColumn({
 }) {
   return (
     <div>
-      <h3 className="text-sm font-bold uppercase tracking-[0.18em] text-sky-200">
+      <h3 className="text-sm font-bold uppercase tracking-[0.18em] text-cyan-200">
         {title}
       </h3>
       <div className="mt-5 flex flex-col gap-3 text-sm text-slate-300">

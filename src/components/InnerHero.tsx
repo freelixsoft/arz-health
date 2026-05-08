@@ -23,10 +23,11 @@ export function InnerHero({
   imageAlt: string;
 }) {
   return (
-    <section className="bg-white py-16 lg:py-20">
+    <section className="relative overflow-hidden bg-[#f7fbff] py-16 lg:py-20">
+      <div className="absolute inset-x-0 top-0 h-40 bg-[linear-gradient(180deg,#e9fbff,transparent)]" />
       <Container className="grid items-center gap-10 lg:grid-cols-[1fr_0.9fr]">
-        <div>
-          <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal-700">
+        <div className="relative animate-rise">
+          <p className="text-sm font-semibold uppercase tracking-[0.18em] text-cyan-700">
             {eyebrow}
           </p>
           <h1 className="mt-4 max-w-3xl text-4xl font-semibold tracking-normal text-slate-950 sm:text-5xl">
@@ -45,7 +46,7 @@ export function InnerHero({
             </SecondaryLink>
           </div>
         </div>
-        <div className="relative aspect-[16/11] overflow-hidden rounded-lg border border-slate-200 bg-slate-100 shadow-sm">
+        <div className="relative aspect-[16/11] overflow-hidden rounded-lg border border-slate-200 bg-slate-100 shadow-2xl shadow-blue-950/10">
           <Image
             src={image}
             alt={imageAlt}

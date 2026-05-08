@@ -1,6 +1,6 @@
 export const SITE_URL = "https://arzhealth.com";
 
-export const WHATSAPP_NUMBER = "PHONE_NUMBER";
+export const WHATSAPP_NUMBER = "905442606000";
 
 export const WHATSAPP_MESSAGE =
   "Hello ARZ Health, I would like to get information about treatments.";

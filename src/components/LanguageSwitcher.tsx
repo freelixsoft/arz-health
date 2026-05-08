@@ -64,8 +64,8 @@ export function LanguageSwitcher({
             onClick={() => rememberLocale(targetLocale)}
             className={`inline-flex min-h-9 items-center gap-2 rounded-md border px-3 py-2 text-sm font-semibold transition ${
               isActive
-                ? "border-teal-700 bg-teal-700 text-white"
-                : "border-slate-200 bg-white text-slate-700 hover:border-sky-200 hover:bg-sky-50"
+                ? "border-[#2437d6] bg-[#2437d6] text-white"
+                : "border-slate-200 bg-white text-slate-700 hover:border-cyan-200 hover:bg-cyan-50"
             } ${compact ? "justify-start" : ""}`}
           >
             <span className="text-[11px] font-bold">{meta.code}</span>

@@ -13,7 +13,7 @@ export function BeforeAfterGallery({ dict }: { dict: Dictionary }) {
           description={dict.gallery.description}
         />
         <div className="mt-12 grid gap-6 lg:grid-cols-[1.1fr_0.9fr]">
-          <div className="relative overflow-hidden rounded-lg border border-slate-200 bg-slate-100 shadow-sm">
+          <div className="relative overflow-hidden rounded-lg border border-slate-200 bg-slate-100 shadow-2xl shadow-blue-950/10">
             <div className="relative aspect-[16/9]">
               <Image
                 src="/images/before-after-placeholder.png"
@@ -28,9 +28,9 @@ export function BeforeAfterGallery({ dict }: { dict: Dictionary }) {
             {dict.gallery.items.map((item) => (
               <div
                 key={item}
-                className="flex items-center gap-4 rounded-lg border border-slate-200 bg-slate-50 p-5"
+                className="flex items-center gap-4 rounded-lg border border-slate-200 bg-[#f7fbff] p-5 transition duration-300 hover:-translate-y-1 hover:border-cyan-200"
               >
-                <span className="flex h-12 w-12 items-center justify-center rounded-md bg-white text-sky-700">
+                <span className="flex h-12 w-12 items-center justify-center rounded-md bg-white text-[#2437d6]">
                   <ImageIcon aria-hidden="true" className="h-5 w-5" />
                 </span>
                 <span className="font-semibold text-slate-800">{item}</span>

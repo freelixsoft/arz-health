@@ -7,7 +7,7 @@ import type { Dictionary } from "@/lib/types";
 type Errors = Partial<Record<"fullName" | "contact" | "treatment" | "consent", string>>;
 
 const fieldClass =
-  "mt-2 w-full rounded-md border border-slate-200 bg-white px-4 py-3 text-sm text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-teal-600 focus:ring-4 focus:ring-teal-100";
+  "mt-2 w-full rounded-md border border-slate-200 bg-white px-4 py-3 text-sm text-slate-900 outline-none transition placeholder:text-slate-400 focus:border-cyan-500 focus:ring-4 focus:ring-cyan-100";
 
 export function ConsultationForm({ dict }: { dict: Dictionary }) {
   const [errors, setErrors] = useState<Errors>({});
@@ -60,7 +60,7 @@ export function ConsultationForm({ dict }: { dict: Dictionary }) {
       className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm sm:p-8"
     >
       <div>
-        <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal-700">
+        <p className="text-sm font-semibold uppercase tracking-[0.18em] text-cyan-700">
           {dict.form.eyebrow}
         </p>
         <h2 className="mt-3 text-3xl font-semibold tracking-normal text-slate-950">
@@ -72,7 +72,7 @@ export function ConsultationForm({ dict }: { dict: Dictionary }) {
       {success ? (
         <div
           role="status"
-          className="mt-6 flex items-start gap-3 rounded-lg border border-teal-200 bg-teal-50 p-4 text-sm font-semibold text-teal-900"
+          className="mt-6 flex items-start gap-3 rounded-lg border border-cyan-200 bg-cyan-50 p-4 text-sm font-semibold text-cyan-950"
         >
           <CheckCircle2 aria-hidden="true" className="mt-0.5 h-5 w-5 shrink-0" />
           {dict.form.success}
@@ -161,7 +161,7 @@ export function ConsultationForm({ dict }: { dict: Dictionary }) {
           />
         </label>
         <label className="flex min-h-24 cursor-pointer flex-col items-center justify-center rounded-lg border border-dashed border-slate-300 bg-slate-50 px-4 py-5 text-center text-sm font-semibold text-slate-700 md:col-span-2">
-          <UploadCloud aria-hidden="true" className="mb-2 h-6 w-6 text-teal-700" />
+          <UploadCloud aria-hidden="true" className="mb-2 h-6 w-6 text-[#2437d6]" />
           {dict.form.fields.photo}
           <input name="photo" type="file" accept="image/*" className="sr-only" />
         </label>
@@ -171,7 +171,7 @@ export function ConsultationForm({ dict }: { dict: Dictionary }) {
         <input
           name="consent"
           type="checkbox"
-          className="mt-1 h-4 w-4 rounded border-slate-300 text-teal-700 focus:ring-teal-600"
+          className="mt-1 h-4 w-4 rounded border-slate-300 text-[#2437d6] focus:ring-cyan-600"
         />
         <span>{dict.form.fields.consent}</span>
       </label>
@@ -179,7 +179,7 @@ export function ConsultationForm({ dict }: { dict: Dictionary }) {
 
       <button
         type="submit"
-        className="mt-7 inline-flex min-h-12 w-full items-center justify-center rounded-md bg-teal-700 px-6 py-3 text-sm font-bold text-white transition hover:bg-teal-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-700 sm:w-auto"
+        className="mt-7 inline-flex min-h-12 w-full items-center justify-center rounded-md bg-[#2437d6] px-6 py-3 text-sm font-bold text-white transition hover:-translate-y-0.5 hover:bg-[#1627b5] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-700 sm:w-auto"
       >
         {dict.common.requestConsultation}
       </button>

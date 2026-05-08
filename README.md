@@ -10,7 +10,7 @@ Professional multilingual health tourism website for ARZ Health, built with Next
 - Tailwind CSS 4
 - Local JSON dictionaries in `/locales`
 - RTL support for Arabic
-- Mock consultation form ready for API, email, CRM, Google Sheets or WhatsApp integration
+- Frontend consultation form ready for backend integration
 
 ## Run Locally
 
@@ -64,12 +64,12 @@ The proxy checks the `arz-locale` cookie first, then browser `Accept-Language`. 
 
 ## WhatsApp Number
 
-Change the placeholder in:
+Change the WhatsApp number in:
 
 - `src/lib/site.ts`
 
 ```ts
-export const WHATSAPP_NUMBER = "PHONE_NUMBER";
+export const WHATSAPP_NUMBER = "905442606000";
 ```
 
 Use an international number without `+`, spaces or punctuation, for example:
@@ -105,7 +105,8 @@ Placeholder visuals are stored in:
 - `public/images/dental-treatment.png`
 - `public/images/aesthetic-consultation.png`
 - `public/images/hair-transplant-care.png`
-- `public/images/istanbul-sisli.png`
+- `public/images/istanbul-maslak.png`
+- `public/images/arz-health-logo.svg`
 - `public/images/before-after-placeholder.png`
 
 Replace these files with brand-approved, optimized images using the same filenames, or update image paths in the locale files and components.
@@ -125,7 +126,7 @@ The consultation form currently validates on the frontend and shows a success me
 
 - `src/components/ConsultationForm.tsx`
 
-Replace the mock submit block with an API call, email service, CRM integration, Google Sheets connector or WhatsApp redirect.
+Replace the current submit handler with an API call, email service, CRM integration, Google Sheets connector or WhatsApp redirect.
 
 Required validation currently checks:
 

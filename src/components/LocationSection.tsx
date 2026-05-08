@@ -5,7 +5,7 @@ import { CheckList, Container, SectionIntro } from "./ui";
 
 export function LocationSection({ dict }: { dict: Dictionary }) {
   return (
-    <section className="bg-slate-50 py-20">
+    <section className="bg-white py-20">
       <Container className="grid items-center gap-10 lg:grid-cols-2">
         <div>
           <SectionIntro
@@ -23,9 +23,9 @@ export function LocationSection({ dict }: { dict: Dictionary }) {
             ].map((item) => (
               <div
                 key={item.text}
-                className="flex items-center gap-3 rounded-lg border border-slate-200 bg-white p-4 shadow-sm"
+                className="flex items-center gap-3 rounded-lg border border-slate-200 bg-white p-4 shadow-sm transition duration-300 hover:-translate-y-1 hover:border-cyan-200"
               >
-                <item.icon aria-hidden="true" className="h-5 w-5 text-teal-700" />
+                <item.icon aria-hidden="true" className="h-5 w-5 text-[#2437d6]" />
                 <span className="text-sm font-semibold text-slate-800">
                   {item.text}
                 </span>
@@ -36,7 +36,7 @@ export function LocationSection({ dict }: { dict: Dictionary }) {
         <div className="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
           <div className="relative aspect-[16/11] bg-slate-100">
             <Image
-              src="/images/istanbul-sisli.png"
+              src="/images/istanbul-maslak.png"
               alt={dict.location.imageAlt}
               fill
               sizes="(min-width: 1024px) 46vw, 100vw"

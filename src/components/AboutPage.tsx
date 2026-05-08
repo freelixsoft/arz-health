@@ -21,11 +21,11 @@ export function AboutPage({ locale, dict }: { locale: Locale; dict: Dictionary }
         image="/images/hero-clinic.png"
         imageAlt={dict.aboutPage.imageAlt}
       />
-      <section className="bg-slate-50 py-20">
+      <section className="bg-[#f7fbff] py-20">
         <Container className="grid items-center gap-10 lg:grid-cols-[0.9fr_1.1fr]">
           <div className="relative aspect-[4/3] overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
             <Image
-              src="/images/istanbul-sisli.png"
+              src="/images/istanbul-maslak.png"
               alt={dict.location.imageAlt}
               fill
               sizes="(min-width: 1024px) 42vw, 100vw"
@@ -33,7 +33,7 @@ export function AboutPage({ locale, dict }: { locale: Locale; dict: Dictionary }
             />
           </div>
           <div>
-            <div className="inline-flex h-12 w-12 items-center justify-center rounded-md bg-teal-700 text-white">
+            <div className="inline-flex h-12 w-12 items-center justify-center rounded-md bg-[#2437d6] text-white">
               <CheckCircle2 aria-hidden="true" className="h-6 w-6" />
             </div>
             <h2 className="mt-5 text-3xl font-semibold tracking-normal text-slate-950">

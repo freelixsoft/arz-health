@@ -39,7 +39,7 @@ export function ServiceDetailPage({
         imageAlt={service.imageAlt}
       />
 
-      <section className="bg-slate-50 py-20">
+      <section className="bg-[#f7fbff] py-20">
         <Container className="grid gap-10 lg:grid-cols-[0.95fr_1.05fr]">
           <div className="relative aspect-[4/3] overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
             <Image
@@ -80,15 +80,15 @@ export function ServiceDetailPage({
           />
           <div className="mt-12 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             {dict.journey.steps.map((step, index) => (
-              <CardShell key={step.title} className="p-5">
+              <CardShell key={step.title} className="p-5 transition duration-300 hover:-translate-y-1 hover:border-cyan-200 hover:shadow-xl hover:shadow-blue-950/10">
                 <div className="flex items-center justify-between gap-3">
-                  <span className="text-sm font-bold text-teal-700">
+                  <span className="text-sm font-bold text-[#2437d6]">
                     {String(index + 1).padStart(2, "0")}
                   </span>
                   {index < 3 ? (
-                    <ClipboardList aria-hidden="true" className="h-5 w-5 text-sky-700" />
+                    <ClipboardList aria-hidden="true" className="h-5 w-5 text-cyan-700" />
                   ) : (
-                    <ShieldCheck aria-hidden="true" className="h-5 w-5 text-teal-700" />
+                    <ShieldCheck aria-hidden="true" className="h-5 w-5 text-[#2437d6]" />
                   )}
                 </div>
                 <h3 className="mt-5 text-base font-semibold text-slate-950">

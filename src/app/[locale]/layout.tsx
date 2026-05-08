@@ -29,7 +29,7 @@ export default async function RootLayout({ children, params }: Props) {
 
   return (
     <html lang={locale} dir={dir} className="scroll-smooth">
-      <body className="min-h-screen bg-slate-50 text-slate-950 antialiased">
+      <body className="min-h-screen bg-[#f7fbff] text-slate-950 antialiased">
         <RTLLayoutWrapper locale={locale} dir={dir}>
           <Header locale={locale} dict={dict} />
           <main>{children}</main>

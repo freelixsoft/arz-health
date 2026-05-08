@@ -36,8 +36,8 @@ export function WhyChooseUs({ dict }: { dict: Dictionary }) {
             const Icon = icons[index % icons.length];
 
             return (
-              <CardShell key={item.title} className="p-5">
-                <span className="flex h-11 w-11 items-center justify-center rounded-md bg-sky-50 text-sky-700">
+              <CardShell key={item.title} className="p-5 transition duration-300 hover:-translate-y-1 hover:border-cyan-200 hover:shadow-xl hover:shadow-blue-950/10">
+                <span className="flex h-11 w-11 items-center justify-center rounded-md bg-cyan-50 text-[#2437d6]">
                   <Icon aria-hidden="true" className="h-5 w-5" />
                 </span>
                 <h3 className="mt-5 text-base font-semibold text-slate-950">

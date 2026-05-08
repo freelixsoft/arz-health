@@ -4,10 +4,10 @@
   "languageName": "English",
   "site": {
     "name": "ARZ Health",
-    "tagline": "International patient support in Istanbul",
-    "location": "Sisli, Istanbul, Turkey",
+    "tagline": "International patient coordination in Istanbul",
+    "location": "Maslak, Sümer Sokağı No: 1/B, 34485 Sarıyer / Istanbul, Turkey",
     "email": "info@arzhealth.com",
-    "whatsapp": "WhatsApp"
+    "whatsapp": "+90 544 260 60 00"
   },
   "languages": {
     "en": "English",
@@ -39,7 +39,7 @@
     "selectLanguage": "Select language",
     "viewServices": "View Services",
     "resultsMayVary": "Results may vary depending on the individual patient.",
-    "demoContent": "Demo placeholder content"
+    "demoContent": "Example content"
   },
   "nav": {
     "home": "Home",
@@ -56,70 +56,117 @@
   "metadata": {
     "home": {
       "title": "ARZ Health | Health Tourism in Istanbul",
-      "description": "ARZ Health provides international patient support for dental treatments, aesthetic procedures and hair transplantation in Sisli, Istanbul.",
-      "keywords": ["ARZ Health", "health tourism Istanbul", "dental treatment Turkey", "aesthetic treatment Istanbul", "hair transplant Turkey", "Sisli clinic support"]
+      "description": "ARZ Health provides international patient support for dental treatments, aesthetic procedures and hair transplantation in Maslak, Sariyer, Istanbul.",
+      "keywords": [
+        "ARZ Health",
+        "health tourism Istanbul",
+        "dental treatment Turkey",
+        "aesthetic treatment Istanbul",
+        "hair transplant Turkey",
+        "Maslak patient support"
+      ]
     },
     "about": {
       "title": "About ARZ Health | International Patient Support",
-      "description": "Learn how ARZ Health coordinates multilingual health tourism support, treatment planning and travel assistance in Sisli, Istanbul.",
-      "keywords": ["about ARZ Health", "international patient support", "health tourism Turkey"]
+      "description": "Learn how ARZ Health coordinates multilingual health tourism support, treatment planning and travel assistance in Maslak, Istanbul.",
+      "keywords": [
+        "about ARZ Health",
+        "international patient support",
+        "health tourism Turkey"
+      ]
     },
     "services": {
       "title": "Medical Services | ARZ Health Istanbul",
       "description": "Explore dental treatments, aesthetic procedures and hair transplantation support for international patients in Istanbul.",
-      "keywords": ["medical services Istanbul", "dental aesthetics hair transplant Turkey"]
+      "keywords": [
+        "medical services Istanbul",
+        "dental aesthetics hair transplant Turkey"
+      ]
     },
     "dental": {
       "title": "Dental Treatments in Istanbul | ARZ Health",
       "description": "Dental implants, smile design, veneers, crowns and whitening support with personalized treatment planning in Istanbul.",
-      "keywords": ["dental implants Istanbul", "Hollywood smile Turkey", "veneers Istanbul"]
+      "keywords": [
+        "dental implants Istanbul",
+        "Hollywood smile Turkey",
+        "veneers Istanbul"
+      ]
     },
     "aesthetic": {
       "title": "Aesthetic Treatments in Istanbul | ARZ Health",
       "description": "Personalized aesthetic consultation, facial aesthetics, body aesthetics and non-surgical procedure coordination in Istanbul.",
-      "keywords": ["aesthetic treatments Istanbul", "rhinoplasty Turkey", "medical aesthetics Istanbul"]
+      "keywords": [
+        "aesthetic treatments Istanbul",
+        "rhinoplasty Turkey",
+        "medical aesthetics Istanbul"
+      ]
     },
     "hair": {
       "title": "Hair Transplantation in Istanbul | ARZ Health",
       "description": "FUE, DHI, beard transplant and hairline planning support for international patients in Istanbul.",
-      "keywords": ["hair transplant Istanbul", "FUE Turkey", "DHI hair transplant"]
+      "keywords": [
+        "hair transplant Istanbul",
+        "FUE Turkey",
+        "DHI hair transplant"
+      ]
     },
     "contact": {
       "title": "Contact ARZ Health | Free Consultation",
       "description": "Contact ARZ Health for free online consultation and multilingual patient support in Istanbul.",
-      "keywords": ["contact ARZ Health", "free consultation Istanbul", "WhatsApp health tourism"]
+      "keywords": [
+        "contact ARZ Health",
+        "free consultation Istanbul",
+        "WhatsApp health tourism"
+      ]
     },
     "privacy": {
       "title": "Privacy Policy | ARZ Health",
       "description": "Read how ARZ Health handles consultation request information and privacy for international patients.",
-      "keywords": ["ARZ Health privacy", "health tourism privacy"]
+      "keywords": [
+        "ARZ Health privacy",
+        "health tourism privacy"
+      ]
     },
     "terms": {
       "title": "Terms of Use | ARZ Health",
       "description": "Read the ARZ Health website terms of use.",
-      "keywords": ["ARZ Health terms"]
+      "keywords": [
+        "ARZ Health terms"
+      ]
     },
     "disclaimer": {
       "title": "Medical Disclaimer | ARZ Health",
       "description": "Important medical disclaimer for ARZ Health website visitors and international patients.",
-      "keywords": ["medical disclaimer", "health tourism disclaimer"]
+      "keywords": [
+        "medical disclaimer",
+        "health tourism disclaimer"
+      ]
     }
   },
   "hero": {
-    "eyebrow": "Sisli, Istanbul based health tourism support",
+    "eyebrow": "Maslak, Istanbul based health tourism support",
     "title": "Your Trusted Health Tourism Partner in Istanbul",
     "description": "ARZ Health welcomes international patients to Istanbul for dental treatments, aesthetic procedures and hair transplantation with professional guidance from consultation to recovery.",
     "primaryCta": "Get Free Consultation",
     "secondaryCta": "Contact on WhatsApp",
     "imageAlt": "Modern Istanbul clinic consultation setting for international patients",
     "stats": [
-      { "value": "3", "label": "Core treatment categories" },
-      { "value": "24/7", "label": "WhatsApp guidance pathway" },
-      { "value": "3", "label": "Website languages" }
+      {
+        "value": "Maslak",
+        "label": "Central Istanbul patient desk"
+      },
+      {
+        "value": "24/7",
+        "label": "WhatsApp contact pathway"
+      },
+      {
+        "value": "3",
+        "label": "Dental, aesthetic and hair services"
+      }
     ],
     "badges": [
-      "Multilingual Support",
-      "Istanbul / Sisli Location",
+      "Multilingual Patient Support",
+      "Maslak / Sariyer Location",
       "Personalized Treatment Planning",
       "Airport & Hotel Assistance"
     ]
@@ -127,31 +174,43 @@
   "services": {
     "eyebrow": "Medical services",
     "title": "Our Medical Services",
-    "description": "Clear treatment coordination for international patients, from first message to follow-up support in Istanbul.",
+    "description": "Premium coordination for dental, aesthetic and hair transplantation requests, shaped around clear communication and medical evaluation.",
     "cards": [
       {
         "key": "dental",
         "title": "Dental Treatments",
         "description": "Dental implants, smile design, veneers, crowns, whitening and full-mouth rehabilitation for international patients.",
         "image": "/images/dental-treatment.png",
-        "imageAlt": "Dental treatment planning placeholder",
-        "features": ["Implants", "Smile design", "Veneers and crowns"]
+        "imageAlt": "Dental consultation and treatment planning",
+        "features": [
+          "Implants",
+          "Smile design",
+          "Veneers and crowns"
+        ]
       },
       {
         "key": "aesthetic",
         "title": "Aesthetic Treatments",
         "description": "Personalized aesthetic and cosmetic procedures planned with professional medical partners in Istanbul.",
         "image": "/images/aesthetic-consultation.png",
-        "imageAlt": "Aesthetic consultation placeholder",
-        "features": ["Facial aesthetics", "Body aesthetics", "Non-surgical options"]
+        "imageAlt": "Aesthetic treatment consultation",
+        "features": [
+          "Facial aesthetics",
+          "Body aesthetics",
+          "Non-surgical options"
+        ]
       },
       {
         "key": "hair",
         "title": "Hair Transplantation",
         "description": "Natural-looking hair transplant solutions with consultation, planning and follow-up support.",
         "image": "/images/hair-transplant-care.png",
-        "imageAlt": "Hair transplantation planning placeholder",
-        "features": ["FUE", "DHI", "Hairline planning"]
+        "imageAlt": "Hair transplantation consultation",
+        "features": [
+          "FUE",
+          "DHI",
+          "Hairline planning"
+        ]
       }
     ]
   },
@@ -160,14 +219,38 @@
     "title": "Why Choose ARZ Health?",
     "description": "International health travel becomes easier when communication, planning and follow-up are handled with clarity.",
     "items": [
-      { "title": "International patient support", "description": "Guidance designed for patients traveling from Europe, the Middle East, America, Africa and beyond." },
-      { "title": "Multilingual communication", "description": "English, Turkish and Arabic content and consultation support pathways." },
-      { "title": "Located in Sisli, Istanbul", "description": "A central location with easy access to hotels, transport and medical facilities." },
-      { "title": "Personalized treatment planning", "description": "Treatment pathways are discussed after medical evaluation and patient expectations are reviewed carefully." },
-      { "title": "Transparent communication", "description": "Clear information about process, timing, appointment coordination and next steps." },
-      { "title": "Travel and clinic assistance", "description": "Support for airport transfer, hotel orientation and clinic appointment organization." },
-      { "title": "WhatsApp follow-up support", "description": "Easy communication before arrival and after treatment while respecting medical guidance boundaries." },
-      { "title": "Professional healthcare network", "description": "Coordination with qualified healthcare partners for appropriate consultation and care." }
+      {
+        "title": "International patient support",
+        "description": "Guidance designed for patients traveling from Europe, the Middle East, America, Africa and beyond."
+      },
+      {
+        "title": "Multilingual communication",
+        "description": "English, Turkish and Arabic content and consultation support pathways."
+      },
+      {
+        "title": "Located in Maslak, Istanbul",
+        "description": "A central business district location with practical access to hotels, transport and healthcare appointments."
+      },
+      {
+        "title": "Personalized treatment planning",
+        "description": "Treatment pathways are discussed after medical evaluation and patient expectations are reviewed carefully."
+      },
+      {
+        "title": "Transparent communication",
+        "description": "Clear information about process, timing, appointment coordination and next steps."
+      },
+      {
+        "title": "Travel and clinic assistance",
+        "description": "Support for airport transfer, hotel orientation and clinic appointment organization."
+      },
+      {
+        "title": "WhatsApp follow-up support",
+        "description": "Easy communication before arrival and after treatment while respecting medical guidance boundaries."
+      },
+      {
+        "title": "Professional healthcare network",
+        "description": "Coordination with qualified healthcare partners for appropriate consultation and care."
+      }
     ]
   },
   "journey": {
@@ -175,12 +258,30 @@
     "title": "Your Treatment Journey in Turkey",
     "description": "A calm, step-by-step experience built for international patients who need clarity before they travel.",
     "steps": [
-      { "title": "Free Online Consultation", "description": "Share your request, medical context and expectations through the consultation form or WhatsApp." },
-      { "title": "Medical Evaluation", "description": "Your information is reviewed with the appropriate healthcare professionals." },
-      { "title": "Personalized Treatment Plan", "description": "Receive a clear plan outline, estimated appointment flow and preparation notes." },
-      { "title": "Travel & Accommodation Assistance", "description": "Get orientation for airport transfer, hotel options and Istanbul logistics." },
-      { "title": "Treatment in Istanbul", "description": "Attend coordinated appointments with multilingual patient support." },
-      { "title": "Recovery & Follow-up Support", "description": "Receive follow-up guidance and communication support after the procedure." }
+      {
+        "title": "Free Online Consultation",
+        "description": "Share your request, medical context and expectations through the consultation form or WhatsApp."
+      },
+      {
+        "title": "Medical Evaluation",
+        "description": "Your information is reviewed with the appropriate healthcare professionals."
+      },
+      {
+        "title": "Personalized Treatment Plan",
+        "description": "Receive a clear plan outline, estimated appointment flow and preparation notes."
+      },
+      {
+        "title": "Travel & Accommodation Assistance",
+        "description": "Get orientation for airport transfer, hotel options and Istanbul logistics."
+      },
+      {
+        "title": "Treatment in Istanbul",
+        "description": "Attend coordinated appointments with multilingual patient support."
+      },
+      {
+        "title": "Recovery & Follow-up Support",
+        "description": "Receive follow-up guidance and communication support after the procedure."
+      }
     ]
   },
   "popular": {
@@ -188,20 +289,49 @@
     "title": "Popular Treatment Requests",
     "description": "These are common treatment interests from international patients. Final suitability requires professional medical consultation.",
     "groups": [
-      { "title": "Dental", "items": ["Dental Implants", "Hollywood Smile", "Zirconium Crowns", "Veneers", "Teeth Whitening", "Smile Design"] },
-      { "title": "Aesthetic", "items": ["Rhinoplasty", "Liposuction", "Face Lift", "Breast Aesthetics", "Tummy Tuck", "Botox & Fillers"] },
-      { "title": "Hair", "items": ["FUE Hair Transplant", "DHI Hair Transplant", "Beard Transplant", "Eyebrow Transplant", "PRP Hair Treatment"] }
+      {
+        "title": "Dental",
+        "items": [
+          "Dental Implants",
+          "Hollywood Smile",
+          "Zirconium Crowns",
+          "Veneers",
+          "Teeth Whitening",
+          "Smile Design"
+        ]
+      },
+      {
+        "title": "Aesthetic",
+        "items": [
+          "Rhinoplasty",
+          "Liposuction",
+          "Face Lift",
+          "Breast Aesthetics",
+          "Tummy Tuck",
+          "Botox & Fillers"
+        ]
+      },
+      {
+        "title": "Hair",
+        "items": [
+          "FUE Hair Transplant",
+          "DHI Hair Transplant",
+          "Beard Transplant",
+          "Eyebrow Transplant",
+          "PRP Hair Treatment"
+        ]
+      }
     ],
     "note": "No medical outcome can be promised before medical evaluation."
   },
   "location": {
     "eyebrow": "Istanbul location",
-    "title": "Located in the Heart of Istanbul: Sisli",
-    "description": "ARZ Health serves international patients in Sisli, one of Istanbul's most central and accessible districts. The location provides easy access to hotels, transportation, shopping areas and medical facilities.",
-    "imageAlt": "Sisli Istanbul map and travel support placeholder",
-    "mapLabel": "Map placeholder: Sisli / Istanbul",
+    "title": "Located in Maslak, Sariyer, Istanbul",
+    "description": "ARZ Health welcomes international patients in Maslak, one of Istanbul’s most accessible business and healthcare districts. The address is close to transport routes, hotels and key city connections.",
+    "imageAlt": "Maslak Istanbul location and travel support",
+    "mapLabel": "Maslak, Sümer Sokağı No: 1/B, 34485 Sarıyer / Istanbul, Turkey",
     "items": [
-      "Sisli / Istanbul patient coordination",
+      "Maslak / Sariyer patient coordination",
       "Airport transfer support",
       "Hotel orientation support",
       "Clinic appointment organization"
@@ -209,39 +339,79 @@
   },
   "gallery": {
     "eyebrow": "Visual documentation",
-    "title": "Before / After Gallery Area",
-    "description": "A structured area is prepared for clinic-approved treatment photos. Current visuals are placeholders and should be replaced with compliant, consent-based media.",
-    "imageAlt": "Before and after gallery placeholder",
-    "items": ["Dental case placeholder", "Aesthetic case placeholder", "Hair transplant placeholder"],
+    "title": "Before / After Gallery",
+    "description": "This area presents treatment case visuals only when approved for publication with patient consent and clinical compliance.",
+    "imageAlt": "Before and after treatment gallery",
+    "items": [
+      "Dental treatment case",
+      "Aesthetic treatment case",
+      "Hair transplantation case"
+    ],
     "disclaimer": "Results may vary depending on the individual patient."
   },
   "testimonials": {
     "eyebrow": "Patient experience",
     "title": "International Patient Feedback",
-    "description": "Demo testimonials show the intended content format. Replace them with verified, consent-based patient reviews before production launch.",
+    "description": "Selected patient feedback reflects communication quality, planning clarity and travel support experience.",
     "items": [
-      { "name": "M.K.", "country": "Germany", "service": "Dental Treatment", "quote": "Very professional communication from the first message. The team helped me understand the treatment process clearly." },
-      { "name": "A.R.", "country": "United Kingdom", "service": "Hair Transplantation", "quote": "The consultation was calm and detailed. I appreciated the travel guidance before arriving in Istanbul." },
-      { "name": "L.S.", "country": "United Arab Emirates", "service": "Aesthetic Consultation", "quote": "ARZ Health explained the appointment steps and helped me prepare questions for the medical consultation." }
+      {
+        "name": "M.K.",
+        "country": "Germany",
+        "service": "Dental Treatment",
+        "quote": "Very professional communication from the first message. The team helped me understand the treatment process clearly."
+      },
+      {
+        "name": "A.R.",
+        "country": "United Kingdom",
+        "service": "Hair Transplantation",
+        "quote": "The consultation was calm and detailed. I appreciated the travel guidance before arriving in Istanbul."
+      },
+      {
+        "name": "L.S.",
+        "country": "United Arab Emirates",
+        "service": "Aesthetic Consultation",
+        "quote": "ARZ Health explained the appointment steps and helped me prepare questions for the medical consultation."
+      }
     ]
   },
   "faq": {
     "eyebrow": "Questions",
     "title": "Frequently Asked Questions",
     "items": [
-      { "question": "How can I get a treatment plan?", "answer": "You can complete the free consultation form or contact ARZ Health on WhatsApp. A patient consultant will collect your request and help coordinate the next medical evaluation step." },
-      { "question": "Do you support international patients?", "answer": "Yes. ARZ Health focuses on international patient support for people traveling to Istanbul for dental, aesthetic and hair transplantation services." },
-      { "question": "Where are you located in Istanbul?", "answer": "ARZ Health is based in Sisli, one of Istanbul's central and accessible districts." },
-      { "question": "Can you help with hotel and transfer?", "answer": "ARZ Health can assist with orientation and coordination for airport transfer, accommodation options and clinic appointments." },
-      { "question": "Which languages do you support?", "answer": "The website supports English, Turkish and Arabic. Patient communication pathways can also be arranged according to availability." },
-      { "question": "How can I contact ARZ Health?", "answer": "You can use the consultation form, WhatsApp button or contact details listed in the footer." },
-      { "question": "Are treatment results guaranteed?", "answer": "No medical result can be guaranteed. Treatment outcomes may vary depending on each patient's medical condition, expectations and treatment plan." }
+      {
+        "question": "How can I get a treatment plan?",
+        "answer": "You can complete the free consultation form or contact ARZ Health on WhatsApp. A patient consultant will collect your request and help coordinate the next medical evaluation step."
+      },
+      {
+        "question": "Do you support international patients?",
+        "answer": "Yes. ARZ Health focuses on international patient support for people traveling to Istanbul for dental, aesthetic and hair transplantation services."
+      },
+      {
+        "question": "Where are you located in Istanbul?",
+        "answer": "ARZ Health is based in Maslak, Sariyer, Istanbul at Maslak, Sümer Sokağı No: 1/B, 34485 Sarıyer / Istanbul."
+      },
+      {
+        "question": "Can you help with hotel and transfer?",
+        "answer": "ARZ Health can assist with orientation and coordination for airport transfer, accommodation options and clinic appointments."
+      },
+      {
+        "question": "Which languages do you support?",
+        "answer": "The website supports English, Turkish and Arabic. Patient communication pathways can also be arranged according to availability."
+      },
+      {
+        "question": "How can I contact ARZ Health?",
+        "answer": "You can use the consultation form, WhatsApp button or contact details listed in the footer."
+      },
+      {
+        "question": "Are treatment results guaranteed?",
+        "answer": "No medical result can be guaranteed. Treatment outcomes may vary depending on each patient's medical condition, expectations and treatment plan."
+      }
     ]
   },
   "form": {
     "eyebrow": "Free consultation",
     "title": "Request Free Consultation",
-    "description": "Tell us what you are interested in. The form is ready for future email, CRM, Google Sheets, API or WhatsApp integration.",
+    "description": "Share your treatment interest, preferred language and contact details. A patient consultant will contact you shortly.",
     "success": "Thank you. Our patient consultant will contact you shortly.",
     "fields": {
       "fullName": "Full Name",
@@ -252,7 +422,7 @@
       "treatment": "Interested Treatment",
       "language": "Preferred Language",
       "message": "Message",
-      "photo": "Upload photo (optional placeholder)",
+      "photo": "Upload photo (optional)",
       "consent": "I agree to be contacted by ARZ Health regarding my consultation request."
     },
     "placeholders": {
@@ -264,8 +434,17 @@
       "message": "Tell us about your treatment goals, travel dates or questions."
     },
     "options": {
-      "treatments": ["Dental Treatment", "Aesthetic Treatment", "Hair Transplant", "Other"],
-      "languages": ["English", "Turkish", "Arabic"]
+      "treatments": [
+        "Dental Treatment",
+        "Aesthetic Treatment",
+        "Hair Transplant",
+        "Other"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "Arabic"
+      ]
     },
     "validation": {
       "name": "Full name is required.",
@@ -276,9 +455,9 @@
   },
   "aboutPage": {
     "eyebrow": "About ARZ Health",
-    "title": "Multilingual Health Tourism Support Based in Sisli",
+    "title": "Multilingual Health Tourism Support Based in Maslak",
     "description": "ARZ Health helps international patients organize healthcare journeys in Turkey with clear communication, treatment planning support and practical Istanbul coordination.",
-    "imageAlt": "ARZ Health patient consultation placeholder",
+    "imageAlt": "ARZ Health patient consultation",
     "introTitle": "What We Do",
     "intro": "ARZ Health is a health tourism coordination brand focused on dental treatments, aesthetic procedures and hair transplantation requests. The team supports patients from first contact to appointment coordination, travel orientation and follow-up communication.",
     "items": [
@@ -287,7 +466,7 @@
       "Clinic and doctor appointment coordination",
       "Accommodation and transportation orientation",
       "Multilingual patient consulting",
-      "Sisli, Istanbul centered service structure"
+      "Maslak, Sariyer, Istanbul centered service structure"
     ]
   },
   "servicesPage": {
@@ -300,45 +479,93 @@
       "eyebrow": "Dental treatments",
       "title": "Dental Treatments in Istanbul",
       "description": "Dental treatment planning support for implants, smile design, veneers, crowns, whitening and full-mouth rehabilitation.",
-      "imageAlt": "Dental treatments service placeholder",
+      "imageAlt": "Dental treatments service",
       "overviewTitle": "Dental Care Coordination",
       "overview": "ARZ Health helps international patients understand dental treatment options, prepare consultation materials and coordinate appointments with professional medical partners in Istanbul.",
-      "treatments": ["Smile design", "Implant treatments", "Veneers", "Crowns", "Teeth whitening", "Treatment planning"],
+      "treatments": [
+        "Smile design",
+        "Implant treatments",
+        "Veneers",
+        "Crowns",
+        "Teeth whitening",
+        "Treatment planning"
+      ],
       "processTitle": "Dental Treatment Process",
       "faqs": [
-        { "question": "Can I share dental photos before traveling?", "answer": "Yes. You can upload or share photos for preliminary consultation guidance. A final plan requires professional dental evaluation." },
-        { "question": "How long do dental treatments take?", "answer": "Timing depends on the treatment type, oral health and medical planning. Your consultant can explain the expected appointment flow after evaluation." },
-        { "question": "Can I combine dental care with travel support?", "answer": "ARZ Health can help coordinate appointment timing, hotel orientation and transfer support." }
+        {
+          "question": "Can I share dental photos before traveling?",
+          "answer": "Yes. You can upload or share photos for preliminary consultation guidance. A final plan requires professional dental evaluation."
+        },
+        {
+          "question": "How long do dental treatments take?",
+          "answer": "Timing depends on the treatment type, oral health and medical planning. Your consultant can explain the expected appointment flow after evaluation."
+        },
+        {
+          "question": "Can I combine dental care with travel support?",
+          "answer": "ARZ Health can help coordinate appointment timing, hotel orientation and transfer support."
+        }
       ]
     },
     "aesthetic": {
       "eyebrow": "Aesthetic treatments",
       "title": "Aesthetic Treatments in Istanbul",
       "description": "Aesthetic consultation and coordination for facial aesthetics, body aesthetics and non-surgical procedures.",
-      "imageAlt": "Aesthetic treatments service placeholder",
+      "imageAlt": "Aesthetic treatments service",
       "overviewTitle": "Safety-Focused Aesthetic Guidance",
       "overview": "Every aesthetic request should be evaluated individually by qualified healthcare professionals. ARZ Health supports communication, appointment coordination and realistic expectation setting.",
-      "treatments": ["Aesthetic consultation", "Facial aesthetics", "Body aesthetics", "Non-surgical procedures", "Preparation guidance", "Follow-up communication"],
+      "treatments": [
+        "Aesthetic consultation",
+        "Facial aesthetics",
+        "Body aesthetics",
+        "Non-surgical procedures",
+        "Preparation guidance",
+        "Follow-up communication"
+      ],
       "processTitle": "Aesthetic Treatment Process",
       "faqs": [
-        { "question": "Can aesthetic procedures be planned remotely?", "answer": "Initial consultation can begin online, but suitability and final medical decisions require qualified medical evaluation." },
-        { "question": "Do you provide safety information?", "answer": "ARZ Health helps patients ask the right questions and understand preparation, recovery and appointment steps." },
-        { "question": "Are outcomes guaranteed?", "answer": "No. Outcomes vary by patient, medical condition, procedure type and treatment plan." }
+        {
+          "question": "Can aesthetic procedures be planned remotely?",
+          "answer": "Initial consultation can begin online, but suitability and final medical decisions require qualified medical evaluation."
+        },
+        {
+          "question": "Do you provide safety information?",
+          "answer": "ARZ Health helps patients ask the right questions and understand preparation, recovery and appointment steps."
+        },
+        {
+          "question": "Are outcomes guaranteed?",
+          "answer": "No. Outcomes vary by patient, medical condition, procedure type and treatment plan."
+        }
       ]
     },
     "hair": {
       "eyebrow": "Hair transplantation",
       "title": "Hair Transplantation in Istanbul",
       "description": "FUE, DHI, beard transplant and hairline planning support with consultation and recovery communication.",
-      "imageAlt": "Hair transplantation service placeholder",
+      "imageAlt": "Hair transplantation service",
       "overviewTitle": "Personalized Hairline Planning Support",
       "overview": "ARZ Health coordinates consultation steps for patients considering hair transplantation in Istanbul, including planning, travel orientation and follow-up communication.",
-      "treatments": ["FUE", "DHI", "Beard transplant", "Hairline planning", "Recovery process", "PRP hair treatment"],
+      "treatments": [
+        "FUE",
+        "DHI",
+        "Beard transplant",
+        "Hairline planning",
+        "Recovery process",
+        "PRP hair treatment"
+      ],
       "processTitle": "Hair Transplant Process",
       "faqs": [
-        { "question": "Which technique is right for me?", "answer": "FUE or DHI suitability depends on your donor area, hair goals and medical evaluation." },
-        { "question": "Can you help after the procedure?", "answer": "ARZ Health supports follow-up communication and helps patients understand recommended recovery steps." },
-        { "question": "Will results look natural?", "answer": "Planning aims for a natural-looking appearance, but individual outcomes vary and require medical assessment." }
+        {
+          "question": "Which technique is right for me?",
+          "answer": "FUE or DHI suitability depends on your donor area, hair goals and medical evaluation."
+        },
+        {
+          "question": "Can you help after the procedure?",
+          "answer": "ARZ Health supports follow-up communication and helps patients understand recommended recovery steps."
+        },
+        {
+          "question": "Will results look natural?",
+          "answer": "Planning aims for a natural-looking appearance, but individual outcomes vary and require medical assessment."
+        }
       ]
     }
   },
@@ -348,8 +575,8 @@
     "description": "Reach the multilingual patient support team through the form or WhatsApp. Share your treatment interest and preferred language.",
     "detailsTitle": "Contact Details",
     "details": [
-      "Location: Sisli, Istanbul, Turkey",
-      "WhatsApp: Placeholder phone number",
+      "Location: Maslak, Sümer Sokağı No: 1/B, 34485 Sarıyer / Istanbul, Turkey",
+      "WhatsApp: +90 544 260 60 00",
       "Email: info@arzhealth.com",
       "Languages: English, Turkish, Arabic"
     ]
@@ -359,39 +586,51 @@
       "eyebrow": "Privacy",
       "title": "Privacy Policy",
       "paragraphs": [
-        "This website may collect consultation request information such as name, country, contact details, treatment interest, preferred language and message content.",
-        "The information is used to respond to consultation requests, coordinate communication and prepare future integrations such as email, CRM, Google Sheets or secure API workflows.",
-        "Medical images or personal details should be shared only when you are comfortable doing so. Production use should include a detailed privacy policy and applicable data protection review."
-      ]
+        "ARZ Health may collect personal information that you voluntarily submit through contact forms, WhatsApp links, email or direct communication. This may include your full name, country, phone number, WhatsApp number, email address, preferred language, treatment interest, message content and optional images shared for preliminary consultation purposes.",
+        "This information is processed to respond to consultation requests, organize patient communication, coordinate appointments, support travel-related arrangements and keep records of communication where necessary. Health-related information and images may be considered sensitive personal data and should only be shared when you consent to ARZ Health reviewing them for consultation coordination.",
+        "ARZ Health does not sell personal information. Information may be shared with authorized patient consultants, contracted service providers and relevant healthcare professionals only when necessary to evaluate your request or organize services. Final medical evaluation is performed by qualified healthcare professionals.",
+        "Personal information is retained only for as long as reasonably necessary for consultation, legal, operational and patient communication purposes. You may contact ARZ Health to request access, correction or deletion of your information, subject to applicable legal obligations.",
+        "By submitting a consultation request, you confirm that the information you provide is accurate and that you agree to be contacted regarding your request. This policy may be updated when service processes, legal requirements or communication channels change."
+      ],
+      "description": "How ARZ Health collects, uses and protects consultation information submitted through this website."
     },
     "terms": {
       "eyebrow": "Terms",
       "title": "Terms of Use",
       "paragraphs": [
-        "This website provides general information about ARZ Health health tourism coordination services.",
-        "Using the website or submitting a consultation form does not create a medical provider-patient relationship.",
-        "Appointments, treatment suitability and final decisions must be reviewed with qualified healthcare professionals."
-      ]
+        "This website provides general information about ARZ Health and its international patient coordination services in Istanbul. Website content is not a medical diagnosis, treatment recommendation or emergency healthcare service.",
+        "Submitting a form, sending a WhatsApp message or requesting information does not create a doctor-patient relationship with ARZ Health. Treatment suitability, risks, timing, pricing and final decisions must be confirmed after evaluation by qualified healthcare professionals.",
+        "Users agree to provide accurate contact and health-related information when requesting consultation. ARZ Health may decline, pause or redirect a request when information is incomplete, inappropriate for remote review or outside the scope of available coordination services.",
+        "Travel, accommodation, transfer and appointment assistance are coordination services. Availability, schedules and third-party service conditions may vary. ARZ Health is not responsible for decisions made independently by third-party providers.",
+        "All website text, layout, branding and visual materials belong to ARZ Health or are used under applicable rights. They may not be copied, reused or represented as another brand without permission."
+      ],
+      "description": "Terms governing the use of the ARZ Health website and consultation request channels."
     },
     "disclaimer": {
       "eyebrow": "Medical disclaimer",
       "title": "Medical Disclaimer",
       "paragraphs": [
-        "The information on this website is for general informational purposes only.",
-        "It does not replace medical consultation.",
-        "Treatment suitability and results may vary for each patient.",
-        "Final medical decisions must be made after consultation with qualified healthcare professionals."
-      ]
+        "The information on this website is for general informational purposes only and does not replace professional medical consultation, diagnosis or treatment.",
+        "No medical result, aesthetic outcome, hair density, dental result, recovery period or success rate can be guaranteed. Outcomes may vary depending on each patient’s medical condition, anatomy, expectations, treatment plan, aftercare and professional evaluation.",
+        "Before any treatment, patients must be evaluated by qualified healthcare professionals. Final decisions about suitability, technique, medication, anesthesia, surgery, recovery and follow-up belong to the responsible healthcare professionals.",
+        "Before/after visuals, testimonials and treatment descriptions are for informational context only. They should not be interpreted as a promise of identical results.",
+        "For urgent medical symptoms or emergencies, contact local emergency services or a qualified healthcare provider immediately."
+      ],
+      "description": "Important medical limitations and patient safety information for website visitors."
     }
   },
   "footer": {
-    "description": "ARZ Health supports international patients seeking dental treatments, aesthetic procedures and hair transplantation in Sisli, Istanbul.",
+    "description": "ARZ Health supports international patients seeking dental treatments, aesthetic procedures and hair transplantation in Maslak, Istanbul.",
     "servicesTitle": "Services",
     "quickLinksTitle": "Quick Links",
     "contactTitle": "Contact",
     "legalTitle": "Legal",
     "socialTitle": "Social",
-    "social": ["Instagram", "Facebook", "LinkedIn"],
+    "social": [
+      "Instagram",
+      "Facebook",
+      "LinkedIn"
+    ],
     "copyright": "All rights reserved.",
     "disclaimer": "Information on this website is for general informational purposes only and does not replace medical consultation."
   }
